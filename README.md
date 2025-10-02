@@ -51,5 +51,7 @@ Formula → ROAS = Revenue / Spend
 Return for every dollar invested in the campaign.
 
 ## Report preview
+link : https://lookerstudio.google.com/reporting/0dbaa9be-c76d-4c66-8c1a-6100ac965468
 
 ![alt text](image.png)
+
